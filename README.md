@@ -23,3 +23,4 @@ This data will act as the foundation for a future data analytics project. I will
 3. Using terminal/cmd cd into python-scraper folder.
 4. Enter the following 'pip install requests beautifulsoup4' followed by 'python Scraper.py'
 5. The csv file will be in python-scraper/csv.
+(In case you have any problems make an empty folder called 'csv' in python-scraper folder.)
