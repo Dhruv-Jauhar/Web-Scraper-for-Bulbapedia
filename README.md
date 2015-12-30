@@ -1,8 +1,8 @@
-#Scrapper for Bulbapedia
+#Scraper for Bulbapedia
 The aim of this program is to extract information on Pokemons such as their name,type,abilities,stats.... from bulbpapedia.com to create a database of all relevant data on them.
 This data will act as the foundation for a future data analytics project. I will analyze decisions made by veteran players of an online indie game called Pokemon Showdown to generate more such affective teams.
 
-#The web scrapper will extract the following data from bulbapedia:
+#The web scraper will extract the following data from bulbapedia:
 1. Pokemon ID
 2. Name
 3. Type
